@@ -102,3 +102,19 @@ MIT
 ---
 
 Want me to add a logo/architecture diagram next or help with the `generate_events.py` script?
+
+PYTHON 10
+To run the application:
+
+1. Execute the following commands:
+   ```bash
+   docker-compose build
+   docker-compose up
+   ```
+
+2. Docker will manage Kafka, Kafka UI, and Flink for you. These services will run via Docker.
+
+3. The event generator will run locally
+
+
+current done kafka consumer but for ETL better to use Flink next step: step up flink and connect with Apache Ice berg

@@ -117,4 +117,4 @@ To run the application:
 3. The event generator will run locally
 
 
-current done kafka consumer but for ETL better to use Flink next step: step up flink and connect with Apache Ice berg
+currently done kafka consumer but for ETL better to use Flink. next step: step up flink and connect with Apache Ice berg

@@ -10,7 +10,7 @@ import os
 # --- Configs ---
 KAFKA_ENABLED = True
 PARQUET_ENABLED = False
-KAFKA_TOPIC = "ecommerce-events-data"
+KAFKA_TOPIC = "ecommerce-events"
 KAFKA_BOOTSTRAP_SERVERS = "localhost:9092"
 PARQUET_DIR = "data/parquet_output"
 
